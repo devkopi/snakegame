@@ -13,8 +13,8 @@ Este es un juego clásico de Snake desarrollado en **Python** utilizando la bibl
 ##  Imagenes del proyecto
 
 
-![Img](image-1.png)
-![Img2](image-2.png)
+![Img](assets/image-1.png)
+![Img2](assets/image-2.png)
 
 ##  Cómo ejecutar el juego
 
